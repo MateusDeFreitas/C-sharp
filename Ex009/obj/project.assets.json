@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mateus.sfreitas\\source\\repos\\Ex009\\Ex009.csproj",
+      "projectUniqueName": "D:\\Curso-C#\\Ex009\\Ex009.csproj",
       "projectName": "Ex009",
-      "projectPath": "C:\\Users\\mateus.sfreitas\\source\\repos\\Ex009\\Ex009.csproj",
+      "projectPath": "D:\\Curso-C#\\Ex009\\Ex009.csproj",
       "packagesPath": "C:\\Users\\mateus.sfreitas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mateus.sfreitas\\source\\repos\\Ex009\\obj\\",
+      "outputPath": "D:\\Curso-C#\\Ex009\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

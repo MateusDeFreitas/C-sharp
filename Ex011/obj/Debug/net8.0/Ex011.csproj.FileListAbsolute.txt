@@ -1,0 +1,14 @@
+D:\Curso-C#\Ex011\bin\Debug\net8.0\Ex011.exe
+D:\Curso-C#\Ex011\bin\Debug\net8.0\Ex011.deps.json
+D:\Curso-C#\Ex011\bin\Debug\net8.0\Ex011.runtimeconfig.json
+D:\Curso-C#\Ex011\bin\Debug\net8.0\Ex011.dll
+D:\Curso-C#\Ex011\bin\Debug\net8.0\Ex011.pdb
+D:\Curso-C#\Ex011\obj\Debug\net8.0\Ex011.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso-C#\Ex011\obj\Debug\net8.0\Ex011.AssemblyInfoInputs.cache
+D:\Curso-C#\Ex011\obj\Debug\net8.0\Ex011.AssemblyInfo.cs
+D:\Curso-C#\Ex011\obj\Debug\net8.0\Ex011.csproj.CoreCompileInputs.cache
+D:\Curso-C#\Ex011\obj\Debug\net8.0\Ex011.dll
+D:\Curso-C#\Ex011\obj\Debug\net8.0\refint\Ex011.dll
+D:\Curso-C#\Ex011\obj\Debug\net8.0\Ex011.pdb
+D:\Curso-C#\Ex011\obj\Debug\net8.0\Ex011.genruntimeconfig.cache
+D:\Curso-C#\Ex011\obj\Debug\net8.0\ref\Ex011.dll

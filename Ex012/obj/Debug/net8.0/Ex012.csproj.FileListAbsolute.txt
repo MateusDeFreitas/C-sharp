@@ -1,0 +1,14 @@
+D:\Curso-C#\Ex012\bin\Debug\net8.0\Ex012.exe
+D:\Curso-C#\Ex012\bin\Debug\net8.0\Ex012.deps.json
+D:\Curso-C#\Ex012\bin\Debug\net8.0\Ex012.runtimeconfig.json
+D:\Curso-C#\Ex012\bin\Debug\net8.0\Ex012.dll
+D:\Curso-C#\Ex012\bin\Debug\net8.0\Ex012.pdb
+D:\Curso-C#\Ex012\obj\Debug\net8.0\Ex012.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso-C#\Ex012\obj\Debug\net8.0\Ex012.AssemblyInfoInputs.cache
+D:\Curso-C#\Ex012\obj\Debug\net8.0\Ex012.AssemblyInfo.cs
+D:\Curso-C#\Ex012\obj\Debug\net8.0\Ex012.csproj.CoreCompileInputs.cache
+D:\Curso-C#\Ex012\obj\Debug\net8.0\Ex012.dll
+D:\Curso-C#\Ex012\obj\Debug\net8.0\refint\Ex012.dll
+D:\Curso-C#\Ex012\obj\Debug\net8.0\Ex012.pdb
+D:\Curso-C#\Ex012\obj\Debug\net8.0\Ex012.genruntimeconfig.cache
+D:\Curso-C#\Ex012\obj\Debug\net8.0\ref\Ex012.dll

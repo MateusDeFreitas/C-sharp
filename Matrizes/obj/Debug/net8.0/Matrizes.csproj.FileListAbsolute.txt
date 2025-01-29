@@ -1,0 +1,14 @@
+D:\Curso-C#\Matrizes\bin\Debug\net8.0\Matrizes.exe
+D:\Curso-C#\Matrizes\bin\Debug\net8.0\Matrizes.deps.json
+D:\Curso-C#\Matrizes\bin\Debug\net8.0\Matrizes.runtimeconfig.json
+D:\Curso-C#\Matrizes\bin\Debug\net8.0\Matrizes.dll
+D:\Curso-C#\Matrizes\bin\Debug\net8.0\Matrizes.pdb
+D:\Curso-C#\Matrizes\obj\Debug\net8.0\Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso-C#\Matrizes\obj\Debug\net8.0\Matrizes.AssemblyInfoInputs.cache
+D:\Curso-C#\Matrizes\obj\Debug\net8.0\Matrizes.AssemblyInfo.cs
+D:\Curso-C#\Matrizes\obj\Debug\net8.0\Matrizes.csproj.CoreCompileInputs.cache
+D:\Curso-C#\Matrizes\obj\Debug\net8.0\Matrizes.dll
+D:\Curso-C#\Matrizes\obj\Debug\net8.0\refint\Matrizes.dll
+D:\Curso-C#\Matrizes\obj\Debug\net8.0\Matrizes.pdb
+D:\Curso-C#\Matrizes\obj\Debug\net8.0\Matrizes.genruntimeconfig.cache
+D:\Curso-C#\Matrizes\obj\Debug\net8.0\ref\Matrizes.dll

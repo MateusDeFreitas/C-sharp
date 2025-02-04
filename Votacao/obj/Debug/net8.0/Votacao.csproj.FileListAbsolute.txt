@@ -1,0 +1,14 @@
+D:\Curso-C#\Votacao\bin\Debug\net8.0\Votacao.exe
+D:\Curso-C#\Votacao\bin\Debug\net8.0\Votacao.deps.json
+D:\Curso-C#\Votacao\bin\Debug\net8.0\Votacao.runtimeconfig.json
+D:\Curso-C#\Votacao\bin\Debug\net8.0\Votacao.dll
+D:\Curso-C#\Votacao\bin\Debug\net8.0\Votacao.pdb
+D:\Curso-C#\Votacao\obj\Debug\net8.0\Votacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso-C#\Votacao\obj\Debug\net8.0\Votacao.AssemblyInfoInputs.cache
+D:\Curso-C#\Votacao\obj\Debug\net8.0\Votacao.AssemblyInfo.cs
+D:\Curso-C#\Votacao\obj\Debug\net8.0\Votacao.csproj.CoreCompileInputs.cache
+D:\Curso-C#\Votacao\obj\Debug\net8.0\Votacao.dll
+D:\Curso-C#\Votacao\obj\Debug\net8.0\refint\Votacao.dll
+D:\Curso-C#\Votacao\obj\Debug\net8.0\Votacao.pdb
+D:\Curso-C#\Votacao\obj\Debug\net8.0\Votacao.genruntimeconfig.cache
+D:\Curso-C#\Votacao\obj\Debug\net8.0\ref\Votacao.dll

@@ -1,0 +1,16 @@
+C:\Users\mateus.sfreitas\Documents\C#\WF-Inical\WF-Inical\obj\Debug\net8.0-windows\WF_Inical.Form1.resources
+C:\Users\mateus.sfreitas\Documents\C#\WF-Inical\WF-Inical\obj\Debug\net8.0-windows\WF-Inical.csproj.GenerateResource.cache
+C:\Users\mateus.sfreitas\Documents\C#\WF-Inical\WF-Inical\obj\Debug\net8.0-windows\WF-Inical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateus.sfreitas\Documents\C#\WF-Inical\WF-Inical\obj\Debug\net8.0-windows\WF-Inical.AssemblyInfoInputs.cache
+C:\Users\mateus.sfreitas\Documents\C#\WF-Inical\WF-Inical\obj\Debug\net8.0-windows\WF-Inical.AssemblyInfo.cs
+C:\Users\mateus.sfreitas\Documents\C#\WF-Inical\WF-Inical\obj\Debug\net8.0-windows\WF-Inical.csproj.CoreCompileInputs.cache
+C:\Users\mateus.sfreitas\Documents\C#\WF-Inical\WF-Inical\bin\Debug\net8.0-windows\WF-Inical.exe
+C:\Users\mateus.sfreitas\Documents\C#\WF-Inical\WF-Inical\bin\Debug\net8.0-windows\WF-Inical.deps.json
+C:\Users\mateus.sfreitas\Documents\C#\WF-Inical\WF-Inical\bin\Debug\net8.0-windows\WF-Inical.runtimeconfig.json
+C:\Users\mateus.sfreitas\Documents\C#\WF-Inical\WF-Inical\bin\Debug\net8.0-windows\WF-Inical.dll
+C:\Users\mateus.sfreitas\Documents\C#\WF-Inical\WF-Inical\bin\Debug\net8.0-windows\WF-Inical.pdb
+C:\Users\mateus.sfreitas\Documents\C#\WF-Inical\WF-Inical\obj\Debug\net8.0-windows\WF-Inical.dll
+C:\Users\mateus.sfreitas\Documents\C#\WF-Inical\WF-Inical\obj\Debug\net8.0-windows\refint\WF-Inical.dll
+C:\Users\mateus.sfreitas\Documents\C#\WF-Inical\WF-Inical\obj\Debug\net8.0-windows\WF-Inical.pdb
+C:\Users\mateus.sfreitas\Documents\C#\WF-Inical\WF-Inical\obj\Debug\net8.0-windows\WF-Inical.genruntimeconfig.cache
+C:\Users\mateus.sfreitas\Documents\C#\WF-Inical\WF-Inical\obj\Debug\net8.0-windows\ref\WF-Inical.dll

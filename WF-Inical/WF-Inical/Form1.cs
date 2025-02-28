@@ -11,6 +11,7 @@ namespace WF_Inical
         public Form1()
         {
             InitializeComponent();
+            this.Text = "Cálculo de média";
         }
 
         private void buttonCalcular_Click(object sender, EventArgs e)

@@ -1,0 +1,16 @@
+C:\Users\mateus.sfreitas\Documents\C#\WF-Inical\FormsEx06\bin\Debug\net8.0-windows\FormsEx06.exe
+C:\Users\mateus.sfreitas\Documents\C#\WF-Inical\FormsEx06\bin\Debug\net8.0-windows\FormsEx06.deps.json
+C:\Users\mateus.sfreitas\Documents\C#\WF-Inical\FormsEx06\bin\Debug\net8.0-windows\FormsEx06.runtimeconfig.json
+C:\Users\mateus.sfreitas\Documents\C#\WF-Inical\FormsEx06\bin\Debug\net8.0-windows\FormsEx06.dll
+C:\Users\mateus.sfreitas\Documents\C#\WF-Inical\FormsEx06\bin\Debug\net8.0-windows\FormsEx06.pdb
+C:\Users\mateus.sfreitas\Documents\C#\WF-Inical\FormsEx06\obj\Debug\net8.0-windows\FormsEx06.Form1.resources
+C:\Users\mateus.sfreitas\Documents\C#\WF-Inical\FormsEx06\obj\Debug\net8.0-windows\FormsEx06.csproj.GenerateResource.cache
+C:\Users\mateus.sfreitas\Documents\C#\WF-Inical\FormsEx06\obj\Debug\net8.0-windows\FormsEx06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateus.sfreitas\Documents\C#\WF-Inical\FormsEx06\obj\Debug\net8.0-windows\FormsEx06.AssemblyInfoInputs.cache
+C:\Users\mateus.sfreitas\Documents\C#\WF-Inical\FormsEx06\obj\Debug\net8.0-windows\FormsEx06.AssemblyInfo.cs
+C:\Users\mateus.sfreitas\Documents\C#\WF-Inical\FormsEx06\obj\Debug\net8.0-windows\FormsEx06.csproj.CoreCompileInputs.cache
+C:\Users\mateus.sfreitas\Documents\C#\WF-Inical\FormsEx06\obj\Debug\net8.0-windows\FormsEx06.dll
+C:\Users\mateus.sfreitas\Documents\C#\WF-Inical\FormsEx06\obj\Debug\net8.0-windows\refint\FormsEx06.dll
+C:\Users\mateus.sfreitas\Documents\C#\WF-Inical\FormsEx06\obj\Debug\net8.0-windows\FormsEx06.pdb
+C:\Users\mateus.sfreitas\Documents\C#\WF-Inical\FormsEx06\obj\Debug\net8.0-windows\FormsEx06.genruntimeconfig.cache
+C:\Users\mateus.sfreitas\Documents\C#\WF-Inical\FormsEx06\obj\Debug\net8.0-windows\ref\FormsEx06.dll
